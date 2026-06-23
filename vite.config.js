@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.webp', '**/*.jpeg', '**/*.jpg', '**/*.png'],
-  base: '/',
+  base: '/yassah-accounting-firm/',
 })
